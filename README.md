@@ -13,7 +13,7 @@ Horarios: (Lunes y Viernes 18:00 hrs - Perú)
 Sigue los talles por [Youtube](https://www.youtube.com/@jenneracostadiaz)
 
 ## TALLERES POR REALIZAR
-- [X] Reloj Digital
+- [X] Reloj Digital [Repositorios](https://github.com/jenneracostadiaz/Timer)
 - [ ] Formulario de Iniciar Sesión
 - [ ] Calculadora
 - [ ] DarkTheme
