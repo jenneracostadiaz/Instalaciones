@@ -10,6 +10,45 @@ Primero tenemos que abrir nuestro <code>JSON</code> de Configuraciones para nues
 }
 </pre>
 
+## Formatear al Guardar
+
+<pre>
+{
+    "editor.formatOnSave": true,
+}
+</pre>
+
+## Configurando Prettier
+
+<pre>
+{
+    "prettier.printWidth": 70,
+    "prettier.tabWidth": 2,
+    "reactSnippets.settings.prettierEnabled": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "prettier.useEditorConfig": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
+</pre>
+
+## Live SASS
+
+<pre>
+{
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "~/../css/",
+        }
+    ],
+}
+</pre>
+
 ## Configuración del Theme synthwave84
 
 Establecemos el brillo en <code>settings.json</code>:
