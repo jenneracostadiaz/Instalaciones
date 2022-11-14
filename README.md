@@ -14,7 +14,7 @@ Sigue los talles por [Youtube](https://www.youtube.com/@jenneracostadiaz)
 
 ## TALLERES POR REALIZAR
 
-- [x] Reloj Digital [Repositorios](https://github.com/jenneracostadiaz/Timer)
+- [x] Reloj Digital [Repositorio](https://github.com/jenneracostadiaz/Timer)
 - [ ] Formulario de Iniciar Sesión
 - [ ] Calculadora
 - [ ] DarkTheme
